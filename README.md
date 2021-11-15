@@ -6,3 +6,9 @@ Simple bcrypt generator script
 ```
 go install github.com/fabianMendez/bcryptgen
 ```
+
+## Usage
+
+```
+bcryptgen <text>
+```
